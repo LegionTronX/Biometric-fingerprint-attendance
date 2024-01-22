@@ -1,5 +1,7 @@
 # Biometric-fingerprint-attendance
 IoT Based Biometric Fingerprint Attendance System with NodeMCU ESP8266
+I developed this for specific client requirements at the previous company I worked for. Here, I made some changes using NODEMCU.
+
 
 
 <p align="center">
