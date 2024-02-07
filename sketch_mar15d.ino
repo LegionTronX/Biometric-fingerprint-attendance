@@ -22,11 +22,11 @@ SoftwareSerial mySerial(Finger_Rx, Finger_Tx);
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
 //************************************************************************
 /* Set these to your desired credentials. */
-const char *ssid = "Telia-B5EAE6";  //ENTER YOUR WIFI SETTINGS
-const char *password = "3Y2vdT3KWdsChRsc";
+const char *ssid = "**************";  //ENTER YOUR WIFI SETTINGS
+const char *password = "************";
 //************************************************************************
 String postData ; // post array that will be send to the website
-String link = "http://192.168.1.80/biometricattendance/getdata.php"; //computer IP or the server domain
+String link = "***********************************"; //computer IP or the server domain
 int FingerID = 0;     // The Fingerprint ID from the scanner 
 uint8_t id;
 //*************************Biometric Icons*********************************
